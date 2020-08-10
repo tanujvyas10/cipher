@@ -1,12 +1,12 @@
 # cipher
 
-##Clone
+## Clone
 git clone <project github link>
 
-##Install the dependencies
+## Install the dependencies
 2 commands needed
->cipher>npm install
->cipher>client>npm install
 
-##Run the project
->cipher>npm run dev
+npm install &  client>npm install
+
+## Run the project
+npm run dev
